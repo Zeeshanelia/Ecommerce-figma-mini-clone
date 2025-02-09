@@ -14,7 +14,7 @@ export const Header = () => {
 
                     <div className="flex  md:gap-10 gap-4  mt-7 md:mb-5 ">
                         <button className="bg-rose-600 font-bold  text-white  w-24 "> Shop Now </button>
-                        <button className="border border-slate-600 font-bold text-gray-500 w-24 sm:w-auto "> Category </button>
+                        <button className="border border-slate-600 font-bold text-gray-500 w-24  "> Category </button>
                     </div>
 
                     <div className="mt-7 ">

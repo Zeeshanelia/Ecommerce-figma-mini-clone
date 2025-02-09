@@ -2,10 +2,10 @@
 export const Nav = () => {
     return (<>
       <nav >
-            <div className="overflow-hidden mx-auto w-11/12 flex   items-center justify-between ">
+            <div className=" mx-auto w-11/12 flex  md:py-0 py-5 items-center justify-between ">
                  <img src="/img/logo.png"  />
               
-                    <ul className="overflow-hidden flex md:gap-10 text-bold font-medium text-black  ">
+                    <ul className="hidden md:flex md:gap-10 text-bold font-medium text-black  ">
                         <li> Manu  </li>
                           <li> Location </li> 
                         <li> About  </li>
